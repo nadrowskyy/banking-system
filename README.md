@@ -1,1 +1,3 @@
-# banking-system
+# Prosta aplikacja bankowa
+
+## dsd
