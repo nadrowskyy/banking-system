@@ -1,3 +1,3 @@
 # Prosta aplikacja bankowa
 
-## dsd
+## Tworzenie karty, pinu, dostęp do środków.
